@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peter-zay
 - 👀 I’m interested in ... construction management web apps
-- 🌱 I’m currently learning ... javaScript
-- 💞️ I’m looking to collaborate on ... construction management web app
+- 🌱 I’m currently learning ... full stack development
+- 💞️ I’m looking to collaborate on ... something cool and interesting
 - 📫 How to reach me ... peter.zay@gmail.com
 
 <!---
